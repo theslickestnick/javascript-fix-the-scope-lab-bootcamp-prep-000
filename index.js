@@ -13,6 +13,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  var n = Math.floor(Math.random() * 1000)
   return n + two
 
   // Feel free to move things around!
